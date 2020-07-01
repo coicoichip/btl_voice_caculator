@@ -1,0 +1,344 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`[Intro] screen rendering test should render outer component and snapshot matches 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#455A64",
+      "flex": 1,
+      "flexDirection": "column",
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "color": "white",
+        "fontSize": 58.33333333333333,
+        "marginTop": 208.33333333333331,
+      }
+    }
+  >
+    Audio Recorder Player
+  </Text>
+  <Text
+    style={
+      Object {
+        "color": "white",
+        "fontFamily": "Helvetica Neue",
+        "fontSize": 41.66666666666666,
+        "fontWeight": "200",
+        "letterSpacing": 3,
+        "marginTop": 66.66666666666666,
+        "textAlignVertical": "center",
+      }
+    }
+  >
+    00:00:00
+  </Text>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "marginTop": 83.33333333333331,
+        "width": "100%",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+        }
+      }
+    >
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "borderColor": "white",
+              "borderWidth": 2.083333333333333,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "fontSize": 29.166666666666664,
+                "marginHorizontal": 16.666666666666664,
+                "marginVertical": 8.333333333333332,
+              }
+            }
+          >
+            Record
+          </Text>
+        </View>
+      </View>
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "borderColor": "white",
+                "borderWidth": 2.083333333333333,
+              },
+              Object {
+                "marginLeft": 24.999999999999996,
+              },
+            ]
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "fontSize": 29.166666666666664,
+                "marginHorizontal": 16.666666666666664,
+                "marginVertical": 8.333333333333332,
+              }
+            }
+          >
+            Stop
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "alignSelf": "stretch",
+        "marginTop": 124.99999999999999,
+      }
+    }
+  >
+    <View
+      accessible={true}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignSelf": "stretch",
+          "marginHorizontal": 58.33333333333333,
+          "marginTop": 58.33333333333333,
+          "opacity": 1,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignSelf": "stretch",
+            "backgroundColor": "#ccc",
+            "height": 8.333333333333332,
+          }
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "backgroundColor": "white",
+                "height": 8.333333333333332,
+                "width": 0,
+              },
+              Object {
+                "width": 0,
+              },
+            ]
+          }
+        />
+      </View>
+    </View>
+    <Text
+      style={
+        Object {
+          "color": "white",
+          "fontFamily": "Helvetica Neue",
+          "fontSize": 41.66666666666666,
+          "fontWeight": "200",
+          "letterSpacing": 3,
+          "marginTop": 24.999999999999996,
+          "textAlignVertical": "center",
+        }
+      }
+    >
+      00:00:00
+       / 
+      00:00:00
+    </Text>
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+          "marginTop": 83.33333333333331,
+        }
+      }
+    >
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "borderColor": "white",
+              "borderWidth": 2.083333333333333,
+            }
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "fontSize": 29.166666666666664,
+                "marginHorizontal": 16.666666666666664,
+                "marginVertical": 8.333333333333332,
+              }
+            }
+          >
+            Play
+          </Text>
+        </View>
+      </View>
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "borderColor": "white",
+                "borderWidth": 2.083333333333333,
+              },
+              Object {
+                "marginLeft": 24.999999999999996,
+              },
+            ]
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "fontSize": 29.166666666666664,
+                "marginHorizontal": 16.666666666666664,
+                "marginVertical": 8.333333333333332,
+              }
+            }
+          >
+            Pause
+          </Text>
+        </View>
+      </View>
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "borderColor": "white",
+                "borderWidth": 2.083333333333333,
+              },
+              Object {
+                "marginLeft": 24.999999999999996,
+              },
+            ]
+          }
+        >
+          <Text
+            style={
+              Object {
+                "color": "white",
+                "fontSize": 29.166666666666664,
+                "marginHorizontal": 16.666666666666664,
+                "marginVertical": 8.333333333333332,
+              }
+            }
+          >
+            Stop
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;
